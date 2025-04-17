@@ -1,12 +1,4 @@
-"""
-Maguire Lab - Deep Learning Seizure Detection WebApp
-2020 - @matteocargnelutti (Software development) | @pantelisantonoudiou (Data Science)
 
-build.py - Builds the webapp's JavaScript and CSS bundle files.
-"""
-#-------------------------------------------------------------------------------
-# Imports
-#-------------------------------------------------------------------------------
 from glob import glob 
 
 from jsmin import jsmin
