@@ -88,14 +88,11 @@ connectedCallback(){this.renderInnerHTML();}
 renderInnerHTML(){this.innerHTML=`
     <hr>
 
-    <h3>Made in 2020 by</h3>
+    <h3>Made in 2024 by</h3>
 
     <p>
-      <a href="https://github.com/pantelisantonoudiou" title="Pantelis Antonoudiou on GitHub">Pantelis Antonoudiou</a>
-      (Data Science)  and 
-      <a href="https://github.com/matteocargnelutti" title="Matteo Cargnelutti on GitHub">Matteo Cargnelutti</a>
-      (Software Development) with the 
-      <a href="https://www.maguirelab.com/">Maguire Lab at Tufts University</a>.
+      <a href="https://github.com/kaushik-sb" title="Kaushik on GitHub">Kaushik Subbiah</a>
+      (Data Science)  and with the Computational Neuroscience Lab at IIT Madras</a>.
     </p>
 
     <p>
@@ -202,7 +199,6 @@ class ScreenInput extends HTMLElement{constructor(){super();this.appRoot=documen
 connectedCallback(){this.renderInnerHTML();}
 renderInnerHTML(){this.innerHTML=`
     <h1>
-      <a href="https://www.maguirelab.com/">Maguire Lab&apos;s</a>
       <p>
         Deep Learning<br>
         <span>seizure</span> detection.
