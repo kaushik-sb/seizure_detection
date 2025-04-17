@@ -91,15 +91,7 @@ renderInnerHTML(){this.innerHTML=`
     <h3>Made in 2024 by</h3>
 
     <p>
-      <a href="https://github.com/kaushik-sb" title="Kaushik on GitHub">Kaushik Subbiah</a>
-      (Data Science)  and with the Computational Neuroscience Lab at IIT Madras</a>.
-    </p>
-
-    <p>
-      This open-source software is distributed under the 
-      <a href="https://choosealicense.com/licenses/apache-2.0/">Apache 2.0 License</a>.<br>
-      Fork us on
-      <a href="https://github.com/matteocargnelutti/maguire-lab-seizure-detection-webapp" title="Fork this project on GitHub">GitHub</a>.
+      <a href="https://github.com/kaushik-sb" title="Kaushik on GitHub">Kaushik Subbiah</a> with the CNS Lab at IIT Madras</a>.
     </p>
 
     <p>
