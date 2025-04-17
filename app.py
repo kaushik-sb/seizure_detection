@@ -1,12 +1,3 @@
-"""
-Maguire Lab - Deep Learning Seizure Detection WebApp
-2020 - @matteocargnelutti (Software development) | @pantelisantonoudiou (Data Science)
-
-app.py - Main entry point. Serves the app, processes EEG data input.
-"""
-#-------------------------------------------------------------------------------
-# Imports
-#-------------------------------------------------------------------------------
 import json
 
 from sklearn.preprocessing import StandardScaler
