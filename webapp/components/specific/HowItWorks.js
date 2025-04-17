@@ -30,7 +30,7 @@ class HowItWorks extends HTMLElement {
              alt="Server" 
              aria-hidden="true"/>
         <p>
-          The app will read the file and send it by chunks to our server, where our <strong>machine learning algorithm</strong> runs. Nothing is stored on our end.
+          The app will read the file and send it by chunks to our server, where our <strong>Oscillatory Autoencoder algorithm</strong> runs. Nothing is stored on our end.
         </p>
       </li>
 

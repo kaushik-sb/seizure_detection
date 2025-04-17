@@ -68,7 +68,7 @@ renderInnerHTML(){this.innerHTML=`
              alt="Server" 
              aria-hidden="true"/>
         <p>
-          The app will read the file and send it by chunks to our server, where our <strong>machine learning algorithm</strong> runs. Nothing is stored on our end.
+          The app will read the file and send it by chunks to our server, where our <strong>Oscillatory Autoencoder algorithm</strong> runs. Nothing is stored on our end.
         </p>
       </li>
 
@@ -93,6 +93,8 @@ renderInnerHTML(){this.innerHTML=`
     <p>
       <a href="https://github.com/kaushik-sb" title="Kaushik on GitHub">Kaushik Subbiah</a> with the CNS Lab at IIT Madras</a>.
     </p>
+
+
 
     <p>
       <strong>This software was built and made available for research purposes only and is intended for use on rodent data.</strong>

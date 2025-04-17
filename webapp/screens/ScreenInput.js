@@ -27,7 +27,6 @@ class ScreenInput extends HTMLElement {
   renderInnerHTML() {
     this.innerHTML = /*html*/`
     <h1>
-      <a href="https://www.maguirelab.com/">Maguire Lab&apos;s</a>
       <p>
         Deep Learning<br>
         <span>seizure</span> detection.
